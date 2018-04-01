@@ -425,6 +425,9 @@ img.portrait {
 .self ul li.tel {
 	background-image:url(../images/icn-tel.gif);
 }
+.self ul li.skype {
+	background-image:url(../images/icn-skype.png);
+}
 
 .self ul li.web {
 	background-image:url(../images/icn-web.gif);
